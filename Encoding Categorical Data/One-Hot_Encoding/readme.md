@@ -3,7 +3,7 @@
 ## 📖 Overview
 **One-Hot Encoding** is a technique used in machine learning and data preprocessing to convert categorical variables into a format that can be provided to machine learning algorithms to improve their performance. Each category in a feature is transformed into a binary vector, with a unique position assigned for each category.
 
-For example:
+For example::
 
 | Color | Red | Green | Blue |
 |-------|-----|-------|------|
