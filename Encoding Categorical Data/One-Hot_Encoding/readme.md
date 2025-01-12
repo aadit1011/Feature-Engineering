@@ -11,7 +11,7 @@ For example::
 | Green | 0   | 1     | 0    |
 | Blue  | 0   | 0     | 1    |
 
-This technique is widely used to handle categorical data that has no ordinal relationship.
+This technique is widely used to handle categorical data with no ordinal relationship.
 
 ---
 
@@ -33,7 +33,7 @@ Categorical data is non-numeric and falls into two types:
 
 1. Identify the categorical variable in the dataset.
 2. Create a binary column for each unique category.
-3. Assign `1` to the binary column corresponding to the category of the sample and `0` to the others.
+3. Assign `1` to the binary column corresponding to the sample category and `0` to the others.
 
 ### Example:
 #### Original Dataset:
